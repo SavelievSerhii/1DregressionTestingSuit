@@ -1,0 +1,1 @@
+{"uuid":"aedb0a68-71bc-4828-a33d-75f08a7b30f9","name":"tests.wishlist.WishlistPageTests","children":["bcacaf32-9f74-4651-860a-256d22d9fad8"],"befores":[],"afters":[{"name":"afterClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1687708203193,"stop":1687708203726}],"start":1687708169388,"stop":1687708203738}

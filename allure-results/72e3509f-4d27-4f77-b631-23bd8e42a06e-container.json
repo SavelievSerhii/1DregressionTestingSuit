@@ -1,0 +1,1 @@
+{"uuid":"72e3509f-4d27-4f77-b631-23bd8e42a06e","name":"test_01_getToSignInPage","children":["5f272817-d135-4fa7-8eeb-39543ef856d1"],"befores":[],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1682853987465,"stop":1682853987790}],"start":1682853983668,"stop":1682853987791}

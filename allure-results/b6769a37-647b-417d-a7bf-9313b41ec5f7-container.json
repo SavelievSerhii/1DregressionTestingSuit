@@ -1,0 +1,1 @@
+{"uuid":"b6769a37-647b-417d-a7bf-9313b41ec5f7","name":"tests.quoteCart.QuoteCartTests","children":["74c07503-dddf-484a-aaa7-5738e1bc46b8"],"befores":[],"afters":[{"name":"afterClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1689163718915,"stop":1689163719310}],"start":1689163588275,"stop":1689163719315}

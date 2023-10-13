@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="C:\Users\T472686\IdeaProjects\ONED-UI-QA-Automation-4">
+    <test name="test_01_getToSignInPage">
+    <classes>
+        <class name="tests.login.LoginPageTests"/>
+    </classes>
+    </test>
+</suite>

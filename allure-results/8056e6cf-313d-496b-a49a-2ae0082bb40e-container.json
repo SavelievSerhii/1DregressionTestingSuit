@@ -1,0 +1,1 @@
+{"uuid":"8056e6cf-313d-496b-a49a-2ae0082bb40e","name":"tests.PLP.ProductListingPageTests","children":["cfd48c65-c45e-445f-97e9-66d8698001e5"],"befores":[],"afters":[{"name":"afterClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1684497607911,"stop":1684497608540}],"start":1684497493615,"stop":1684497608549}

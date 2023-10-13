@@ -1,0 +1,1 @@
+{"uuid":"d12baf0f-c72a-4b08-82cf-b6bdde284c50","name":"tests.PDP.ProductDescriptionPageTests","children":["860a341a-85fb-4cc8-a14a-beb89ee702d4"],"befores":[],"afters":[{"name":"afterClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1684173499099,"stop":1684173499639}],"start":1684173336335,"stop":1684173499648}
